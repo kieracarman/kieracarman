@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+I am a software developer from New York, primarily working with React and Next.js. :relaxed:
 
 <!--
 **kieracarman/kieracarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
