@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-I am a software developer from New York, primarily working with React and Next.js. :relaxed:
+I am a software developer from New York. :relaxed:
+
+After spending a few years working in JS and Typescript primarily, I'm currently focusing on learning Rust!
 
 <!--
 **kieracarman/kieracarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
