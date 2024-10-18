@@ -2,7 +2,11 @@
 
 I am a software developer from New York. :relaxed:
 
-After spending a few years working in JS and Typescript primarily, I'm currently focusing on learning Rust!
+I like building tools for humans solving real-world problems.
+
+- 🏋️‍♀️ Well versed in JS and Typescript, especially for web apps.
+- 🌱 Currently learning Rust!
+- ⚡ Super excited about solving social justice challenges with software.
 
 <!--
 **kieracarman/kieracarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
